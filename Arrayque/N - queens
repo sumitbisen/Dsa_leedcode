@@ -1,0 +1,55 @@
+class Solution {
+    public List<List<String>> solveNQueens(int n) {
+        List<List<String>> result = new ArrayList<>();
+
+        char[][] board = new char[n][n];
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(board[i], '.');
+        }
+
+        Set<Integer> cols = new HashSet<>();
+        Set<Integer> diag = new HashSet<>();      // row - col
+        Set<Integer> antiDiag = new HashSet<>();  // row + col
+
+        backtrack(0, n, board, cols, diag, antiDiag, result);
+
+        return result;
+    }
+
+    private void backtrack(int row, int n, char[][] board,
+                           Set<Integer> cols,
+                           Set<Integer> diag,
+                           Set<Integer> antiDiag,
+                           List<List<String>> result) {
+
+        if (row == n) {
+            List<String> solution = new ArrayList<>();
+            for (char[] r : board) {
+                solution.add(new String(r));
+            }
+            result.add(solution);
+            return;
+        }
+
+        for (int col = 0; col < n; col++) {
+
+            if (cols.contains(col) ||
+                diag.contains(row - col) ||
+                antiDiag.contains(row + col)) {
+                continue;
+            }
+
+            board[row][col] = 'Q';
+            cols.add(col);
+            diag.add(row - col);
+            antiDiag.add(row + col);
+
+            backtrack(row + 1, n, board, cols, diag, antiDiag, result);
+
+            board[row][col] = '.';
+            cols.remove(col);
+            diag.remove(row - col);
+            antiDiag.remove(row + col);
+        }
+    }
+}
