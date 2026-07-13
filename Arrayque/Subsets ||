@@ -1,0 +1,27 @@
+class Solution {
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        
+        Arrays.sort(nums); // Sort to handle duplicates
+        
+        backtrack(0, nums, new ArrayList<>(), result);
+        
+        return result;
+    }
+    
+    private void backtrack(int start, int[] nums, List<Integer> curr, List<List<Integer>> result) {
+        result.add(new ArrayList<>(curr));
+        
+        for (int i = start; i < nums.length; i++) {
+            
+            // Skip duplicates at the same level
+            if (i > start && nums[i] == nums[i - 1]) {
+                continue;
+            }
+            
+            curr.add(nums[i]);
+            backtrack(i + 1, nums, curr, result);
+            curr.remove(curr.size() - 1); // Backtrack
+        }
+    }
+}
