@@ -1,0 +1,28 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        int maxProd = nums[0];
+        int minProd = nums[0];
+        int result = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+
+            // If current number is negative, swap max and min
+            if (nums[i] < 0) {
+                int temp = maxProd;
+                maxProd = minProd;
+                minProd = temp;
+            }
+
+            // Maximum product ending at current index
+            maxProd = Math.max(nums[i], maxProd * nums[i]);
+
+            // Minimum product ending at current index
+            minProd = Math.min(nums[i], minProd * nums[i]);
+
+            // Update answer
+            result = Math.max(result, maxProd);
+        }
+
+        return result;
+    }
+}
