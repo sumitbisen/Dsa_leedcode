@@ -1,0 +1,53 @@
+class Solution {
+
+    public List<String> wordBreak(String s, List<String> wordDict) {
+
+        Set<String> dict = new HashSet<>(wordDict);
+        Map<String, List<String>> memo = new HashMap<>();
+
+        return dfs(s, dict, memo);
+    }
+
+    private List<String> dfs(String s, Set<String> dict,
+                             Map<String, List<String>> memo) {
+
+        // If already solved, return stored result
+        if (memo.containsKey(s)) {
+            return memo.get(s);
+        }
+
+        List<String> result = new ArrayList<>();
+
+        // Base case
+        if (s.length() == 0) {
+            result.add("");
+            return result;
+        }
+
+        // Try every possible prefix
+        for (int i = 1; i <= s.length(); i++) {
+
+            String word = s.substring(0, i);
+
+            // If prefix is in dictionary
+            if (dict.contains(word)) {
+
+                List<String> remaining = dfs(s.substring(i), dict, memo);
+
+                // Combine current word with remaining sentences
+                for (String sentence : remaining) {
+                    if (sentence.equals("")) {
+                        result.add(word);
+                    } else {
+                        result.add(word + " " + sentence);
+                    }
+                }
+            }
+        }
+
+        // Store result in memo
+        memo.put(s, result);
+
+        return result;
+    }
+}
