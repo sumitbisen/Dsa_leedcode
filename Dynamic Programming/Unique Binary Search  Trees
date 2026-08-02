@@ -1,0 +1,22 @@
+class Solution {
+    public int numTrees(int n) {
+        int[] dp = new int[n + 1];
+        // base cases
+        dp[0] = 1;
+        dp[1] = 1;
+
+        //calculate numder of 
+        for (int i = 2; i <= n; i++){
+            // try every node as root
+            for (int root = 1; root <= i; root++){
+                int left = root - 1;
+                int right = i - root ;
+
+                dp[i] += dp[left] * dp[right];
+
+            }
+
+        }
+        return dp[n];
+    }
+}
