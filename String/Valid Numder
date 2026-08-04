@@ -1,0 +1,49 @@
+class Solution {
+    public boolean isNumber(String s) {
+        return s.matches("[+-]?((\\d+\\.?\\d*)|(\\.\\d+))([eE][+-]?\\d+)?");
+    }
+}
+        
+//   class Solution {
+//     public boolean isNumber(String s) {
+//         boolean digitSeen = false;
+//         boolean dotSeen = false;
+//         boolean exponentSeen = false;
+
+//         for (int i = 0; i < s.length(); i++) {
+//             char ch = s.charAt(i);
+
+//             if (Character.isDigit(ch)) {
+//                 digitSeen = true;
+//             }
+//             else if (ch == '+' || ch == '-') {
+//                 // Sign is valid only at start
+//                 // or immediately after e/E
+//                 if (i > 0 && s.charAt(i - 1) != 'e' && s.charAt(i - 1) != 'E') {
+//                     return false;
+//                 }
+//             }
+//             else if (ch == '.') {
+//                 // Only one dot and before exponent
+//                 if (dotSeen || exponentSeen) {
+//                     return false;
+//                 }
+//                 dotSeen = true;
+//             }
+//             else if (ch == 'e' || ch == 'E') {
+//                 // Only one exponent and must have a number before it
+//                 if (exponentSeen || !digitSeen) {
+//                     return false;
+//                 }
+
+//                 exponentSeen = true;
+//                 digitSeen = false; // Need digits after e/E
+//             }
+//             else {
+//                 return false;
+//             }
+//         }
+
+//         return digitSeen;
+//     }
+// }      
