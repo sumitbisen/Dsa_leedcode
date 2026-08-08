@@ -1,0 +1,38 @@
+class Solution {
+
+    public List<String> restoreIpAddresses(String s) {
+        List<String> ans = new ArrayList<>();
+        solve(s, 0, 0, "", ans);
+        return ans;
+    }
+
+    private void solve(String s, int index, int parts, String current,
+                       List<String> ans) {
+
+        // If 4 parts are created
+        if (parts == 4) {
+            if (index == s.length()) {
+                ans.add(current.substring(0, current.length() - 1));
+            }
+            return;
+        }
+
+        // Take 1 to 3 digits for each part
+        for (int i = 1; i <= 3 && index + i <= s.length(); i++) {
+
+            String part = s.substring(index, index + i);
+
+            // Leading zero check
+            if (part.length() > 1 && part.charAt(0) == '0')
+                break;
+
+            int num = Integer.parseInt(part);
+
+            // Valid range check
+            if (num <= 255) {
+                solve(s, index + i, parts + 1,
+                      current + part + ".", ans);
+            }
+        }
+    }
+}
