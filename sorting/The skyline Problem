@@ -1,0 +1,63 @@
+import java.util.*;
+
+class Solution {
+    public List<List<Integer>> getSkyline(int[][] buildings) {
+
+        List<int[]> events = new ArrayList<>();
+
+        // Create start and end events
+        for (int[] b : buildings) {
+            int left = b[0];
+            int right = b[1];
+            int height = b[2];
+
+            events.add(new int[]{left, -height, right});
+            events.add(new int[]{right, 0, 0});
+        }
+
+        // Sort events by x-coordinate
+        // If same x, higher building comes first
+        events.sort((a, b) -> {
+            if (a[0] != b[0])
+                return Integer.compare(a[0], b[0]);
+            return Integer.compare(a[1], b[1]);
+        });
+
+        // Max heap: [height, right]
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> Integer.compare(b[0], a[0])
+        );
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        int prevHeight = 0;
+
+        for (int[] event : events) {
+
+            int x = event[0];
+            int height = -event[1];
+            int right = event[2];
+
+            // Remove buildings that have ended
+            while (!pq.isEmpty() && pq.peek()[1] <= x) {
+                pq.poll();
+            }
+
+            // Start a new building
+            if (height > 0) {
+                pq.offer(new int[]{height, right});
+            }
+
+            // Current maximum height
+            int currHeight = pq.isEmpty() ? 0 : pq.peek()[0];
+
+            // Height changed → key point
+            if (currHeight != prevHeight) {
+                result.add(Arrays.asList(x, currHeight));
+                prevHeight = currHeight;
+            }
+        }
+
+        return result;
+    }
+}
