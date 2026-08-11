@@ -1,0 +1,38 @@
+class Solution {
+    public List<List<Integer>> combinationSum3(int k, int n) {
+        List<List<Integer>> result = new ArrayList<>();
+
+        backtrack(1, k, n, new ArrayList<>(), result);
+
+        return result;
+    }
+
+    private void backtrack(int start, int k, int target,
+                           List<Integer> current,
+                           List<List<Integer>> result) {
+
+        // Valid combination
+        if (k == 0) {
+            if (target == 0) {
+                result.add(new ArrayList<>(current));
+            }
+            return;
+        }
+
+        // Try numbers from start to 9
+        for (int i = start; i <= 9; i++) {
+
+            // Since numbers are positive, no need to continue
+            if (i > target) {
+                break;
+            }
+
+            current.add(i);
+
+            // i + 1 => number cannot be reused
+            backtrack(i + 1, k - 1, target - i, current, result);
+
+            current.remove(current.size() - 1);
+        }
+    }
+}
