@@ -33,4 +33,8 @@ all the DSA
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
