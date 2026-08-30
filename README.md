@@ -71,12 +71,14 @@ all the DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Union-Find
