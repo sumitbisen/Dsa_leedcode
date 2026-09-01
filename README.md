@@ -76,6 +76,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -126,6 +127,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -165,6 +168,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
@@ -173,4 +177,8 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
