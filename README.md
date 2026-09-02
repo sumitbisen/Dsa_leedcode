@@ -149,6 +149,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0274-h-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -185,4 +186,12 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
