@@ -112,6 +112,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Union-Find
 |  |
 | ------- |
