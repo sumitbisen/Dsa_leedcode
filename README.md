@@ -146,6 +146,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
@@ -155,6 +156,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0275-h-index-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -175,10 +177,12 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
@@ -204,4 +208,12 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
