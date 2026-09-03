@@ -124,19 +124,23 @@ Solutions in this repository are based on problems from LeetCode and organized u
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
 ## Two Pointers
 |  |
@@ -196,4 +200,8 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
