@@ -178,6 +178,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -221,4 +222,8 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3903-smallest-stable-index-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
