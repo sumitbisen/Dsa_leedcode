@@ -162,6 +162,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0283-move-zeroes](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -204,6 +205,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
@@ -247,4 +249,8 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
