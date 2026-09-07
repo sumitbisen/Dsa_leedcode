@@ -83,6 +83,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
+| [0940-distinct-subsequences-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0940-distinct-subsequences-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -121,6 +122,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0115-distinct-subsequences](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
+| [0940-distinct-subsequences-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0940-distinct-subsequences-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
