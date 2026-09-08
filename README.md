@@ -114,6 +114,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
+| [3870-count-commas-in-range](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
