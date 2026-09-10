@@ -134,6 +134,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,4 +259,12 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
