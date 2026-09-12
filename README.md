@@ -128,6 +128,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
 | [0940-distinct-subsequences-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -192,6 +194,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0274-h-index) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0275-h-index-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
