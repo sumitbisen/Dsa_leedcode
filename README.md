@@ -172,6 +172,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0284-peeking-iterator](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0835-image-overlap) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -221,6 +222,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
