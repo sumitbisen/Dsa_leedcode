@@ -117,6 +117,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
+| [0836-rectangle-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -290,4 +291,8 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
