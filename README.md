@@ -124,6 +124,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3871-count-commas-in-range-ii) |
@@ -310,6 +311,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
