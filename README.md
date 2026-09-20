@@ -91,6 +91,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -287,6 +288,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
+| [3498-reverse-degree-of-a-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
