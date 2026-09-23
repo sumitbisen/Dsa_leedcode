@@ -78,6 +78,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -191,6 +192,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0289-game-of-life](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -225,6 +227,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0278-first-bad-version](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -270,6 +273,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3904-smallest-stable-index-ii) |
@@ -328,4 +332,5 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
