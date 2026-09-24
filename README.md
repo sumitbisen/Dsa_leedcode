@@ -130,6 +130,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -201,6 +202,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3875-construct-uniform-parity-array-i) |
