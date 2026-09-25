@@ -75,6 +75,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
 | [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -87,6 +88,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0115-distinct-subsequences) |
+| [0290-word-pattern](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
 | [0940-distinct-subsequences-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
