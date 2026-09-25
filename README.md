@@ -76,6 +76,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
+| [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,6 +89,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0115-distinct-subsequences](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
 | [0940-distinct-subsequences-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -163,6 +165,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
+| [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
@@ -218,6 +221,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [0268-missing-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0274-h-index) |
+| [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -335,4 +339,12 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
