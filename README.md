@@ -88,6 +88,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
@@ -355,6 +356,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -362,6 +364,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
