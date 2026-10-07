@@ -94,6 +94,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0115-distinct-subsequences](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0940-distinct-subsequences-ii) |
@@ -183,6 +184,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0207-course-schedule](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -363,6 +365,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
