@@ -118,6 +118,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -174,6 +175,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0264-ugly-number-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [1848-minimum-distance-to-the-target-element](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -246,6 +249,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0274-h-index](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0274-h-index) |
 | [1096-brace-expansion-ii](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -257,6 +261,7 @@ Solutions in this repository are based on problems from LeetCode and organized u
 | [0287-find-the-duplicate-number](https://github.com/sumitbisen/Dsa_leedcode/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitbisen/Dsa_leedcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumitbisen/Dsa_leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitbisen/Dsa_leedcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
